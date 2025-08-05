@@ -2,7 +2,7 @@
     <a href="https://skywalkerSam.dev">
         <img src="https://github.com/starboy-inc.png" alt="Starboy Logo" height=128>
     </a>
-    <h1><a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank" rel="noopener noreferer">🥣 Algorithms</a></h1>
+    <h1><a href="https://en.wikipedia.org/wiki/Algorithm">🥣 Algorithms</a></h1>
     Some basic algrorithm implementations...
 </div>
 
