@@ -1,0 +1,26 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": " Fisher–Yates shuffle algorithm with TypeScript",
+  "main": "dist/fisherYates.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "build": "tsc",
+    "start": "npm run build && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skywalkerSam/fisherYatesShuffle.git"
+  },
+  "author": "skywalkerSam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skywalkerSam/fisherYatesShuffle/issues"
+  },
+  "homepage": "https://github.com/skywalkerSam/fisherYatesShuffle#readme",
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "vitest": "^2.0.5"
+  }
+}
